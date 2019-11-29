@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Files/Files/EE460N_fall2019/Lab5/lc3bsim5.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
